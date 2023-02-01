@@ -26,6 +26,26 @@ Today, AI is being used in a variety of real-world applications, from self-drivi
 * Tesla Autopilot, a self-driving car technology, uses computer vision and machine learning algorithms to navigate roads and make decisions in real-time.
 As AI continues to evolve and become more advanced, it is likely that we will see even more innovative and impactful uses of the technology in the future.
 
+> AI is a vast and interdisciplinary field that encompasses multiple subfields. 
+
+### Some of the main subfields of AI:
+
+* Machine Learning: It involves the development of algorithms and statistical models that enable systems to automatically improve their performance with experience. It includes techniques such as supervised learning, unsupervised learning, reinforcement learning, and deep learning.
+
+* Computer Vision: This subfield deals with the development of algorithms and models to enable computers to interpret and understand visual information from the real world. Applications include image recognition, object detection, and scene understanding.
+
+* Natural Language Processing (NLP): It is the subfield of AI that deals with the interaction between computers and humans in natural language. NLP includes tasks such as speech recognition, text classification, sentiment analysis, and machine translation.
+
+* Robotics: It deals with the design, construction, and use of robots. Robotics involves various fields including AI, mechanical engineering, electrical engineering, and computer science. Applications include industrial robots, service robots, and autonomous vehicles.
+
+* Knowledge Representation and Reasoning: This subfield of AI deals with the representation of knowledge in a computer-understandable form and the development of algorithms for reasoning about this knowledge.
+
+* Neural Networks: It is a subset of machine learning that is inspired by the structure and function of the human brain. Neural networks are used for tasks such as image classification, speech recognition, and natural language processing.
+
+* Expert Systems: This subfield of AI focuses on developing systems that can solve complex problems in a specific domain by imitating the decision-making ability of a human expert.
+
+* Genetic Algorithms: This subfield of AI deals with the development of algorithms that use principles of evolutionary biology to find solutions to optimization problems.
+
 ### Some references for information on Artificial Intelligence:
 
 - "Artificial Intelligence: A Modern Approach" by Stuart Russell and Peter Norvig
