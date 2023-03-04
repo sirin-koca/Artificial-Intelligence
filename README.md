@@ -7,7 +7,7 @@ The Turing Test, proposed by British mathematician Alan Turing in 1950, is a ben
 
 The Turing Test requires a computer system to have natural language processing capabilities, knowledge representation, automated reasoning, and machine learning. In recent years, the Winograd Schema has emerged as an alternative to the Turing Test, which focuses on testing a computer system's understanding of context in language.
 
-## Working of Human Minds
+## Working of Human Mind
 Artificial Intelligence researchers aim to replicate the workings of the human mind in computer systems. There are three ways to study the inner workings of the human mind: introspection, psychological experiments, and brain imaging. By understanding how the human mind works, researchers can then translate these findings into computer programs.
 
 ## History of AI
