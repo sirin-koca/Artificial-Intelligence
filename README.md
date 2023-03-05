@@ -18,6 +18,9 @@ Over the last 60 years, the focus of computer science has shifted from algorithm
 ## Pioneers of Artificial Intelligence
 Some of the pioneers in the field of Artificial Intelligence include Alan Turing, Marvin Minsky, Ray Kurzweil, Seymour Papert, John McCarthy, and Kevin Warwick. These individuals have made significant contributions to our understanding of how AI systems can be designed to behave like humans and to solve complex problems.
 
+## Teacable Machines
+The first Machine Learning model was built by Arthur Samuel in 1959. He developed a program that played checkers and learned from its own experience using a technique called "machine learning." This was a significant breakthrough in the field of artificial intelligence and paved the way for the development of more complex machine learning models. Since then, numerous researchers and scientists have contributed to the development of machine learning and built many different models for a wide range of applications.
+
 ## Real-World Examples of AI
 > Today, AI is being used in a variety of real-world applications, from self-driving cars to virtual personal assistants. Some popular examples of AI include:
 * Siri, Apple's virtual personal assistant, uses natural language processing and machine learning to answer questions and complete tasks for users.
