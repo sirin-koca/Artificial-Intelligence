@@ -73,5 +73,5 @@ These books provide a comprehensive overview of AI, covering its history, key co
 
 ---
 
-SK | OsloMet 23
+Sirin Koca | OsloMet 23
 
